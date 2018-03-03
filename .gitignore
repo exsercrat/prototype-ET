@@ -1,0 +1,20 @@
+*.suo
+*.DotSettings
+*.sln
+*.csproj
+Assets/UnityVS/
+Library/
+Temp/
+obj/
+visual studio 2013Projects/
+visual studio 2013Templates/
+Assets/save.json
+Assets/-tk2d.asset
+Assets/Resources/tk2d.meta
+SaveData.save
+Assets/Resources/tk2d/
+Assets/-tk2d.asset.meta
+Build/
+UnityVS.slender-origins2.sln.DotSettings.user
+Assembly-UnityScript-vs.unityproj
+Assembly-UnityScript.unityproj
